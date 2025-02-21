@@ -1,4 +1,4 @@
-# 🏰 Chhatrapati Shivaji Maharaj - Turtle Graphics Tribute 👑
+# Chhatrapati Shivaji Maharaj - Turtle Graphics Tribute 👑
 
 This Python project uses the **Turtle graphics** library to create an artistic tribute to **Chhatrapati Shivaji Maharaj**, the legendary Maratha ruler. The script generates a visually appealing design featuring his name along with symbolic elements that represent his strength, leadership, and vision.
 
